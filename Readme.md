@@ -62,7 +62,7 @@ You'll need to have Python 3 and pip installed on your system.
 
 ```sh
     pip install -r requirements.txt
-    ```
+ ```
 
 ---
 
