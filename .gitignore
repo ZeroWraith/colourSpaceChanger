@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / compiled files
+
+  
+
+__pycache__/
+
+*.pyc
+
+  
+
+*.pyd
+
+  
+
+*.pyo
+
+  
+
+  
+
+# Virtual environment
+
+  
+
+venv/
+
+.venv/
+
+  
+
+# IDE-specific files
+
+  
+
+.vscode/
+
+  
+  
+
+# Distribution / build files
+
+  
+
+dist/
+
+build/
+
+*.egg-info/
+
+.eggs/
+
+  
+
+# Log files
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+*.swp
+
+# Environment variables
+
+.env
