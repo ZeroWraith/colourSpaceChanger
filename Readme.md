@@ -43,7 +43,7 @@ You'll need to have Python 3 and pip installed on your system.
 
 1.  **Clone the repository** to your local machine.
     ```sh
-    git clone [https://github.com/zerowraith/colourSpaceChanger.git](https://github.com/ZeroWraith/colourSpaceChanger.git)
+    git clone https://github.com/zerowraith/colourSpaceChanger.git
     cd colourSpaceChanger
     ```
 
